@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477480667577",
+    "project_id": "expo-9a502",
+    "storage_bucket": "expo-9a502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477480667577:android:8370c77a95721da37c4e68",
+        "android_client_info": {
+          "package_name": "com.todosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4l7Tn9SCjj8TopMegtZ18uogGsTviQYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
